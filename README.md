@@ -1,4 +1,4 @@
-### Olá ! Eu sou Pedro Henrique
+### Olá ! Eu sou Pedro Henrique ...
 
 - 🔭 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas 
 - 🌱 Estudando Java, PHP, HTML e CSS
