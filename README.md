@@ -1,7 +1,5 @@
 ### Olá ! Eu sou Pedro Henrique
 
-Here are some ideas to get you started:
-
 - 🔭 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas 
 - 🌱 Estudando Java, PHP, HTML e CSS
 - 💬 Contate-me no email: phgds147@gmail.com
